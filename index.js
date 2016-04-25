@@ -6,7 +6,7 @@
         4: 'jQuery',
         5: 'Vanilla JS',
         6: 'Sõltumatud väikesed komponendid',
-        7: 'Lazy loading?',
+        7: 'Lazy loading',
         8: 'Require.js',
         9: 'Projekt on mahult',
         10: 'Ma seon datat',
@@ -20,8 +20,8 @@
         18: 'moment.js',
         19: 'localForage',
         20: 'Mõistlik browser support',
-        21: 'Native Promise',
-        22: 'Töötav error handling?',
+        21: 'native Promise',
+        22: 'Töötav error handling',
         23: 'jQuery Defer',
         24: 'q',
         25: 'Ainult tavalisi & semitavalisi',
@@ -83,7 +83,7 @@
     let nodeText = '#464E54';
 
     let leafColor = '#A5E4C2';
-    let leafText = '#3E6751';
+    let leafText = '#286F49';
 
     let digraph = [];
     digraph.push(
