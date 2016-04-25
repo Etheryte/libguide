@@ -1,0 +1,33 @@
+html {
+	height: 100%;
+}
+
+body {
+	font-family: sans-serif;
+	height: 100%;
+	width: 100%;
+	box-sizing: border-box;
+	padding: 10px;
+	margin: 0;
+	align-items: center;
+	display: flex;
+}
+
+header {
+	position: absolute;
+	color: #464E54;
+}
+
+h1 {
+	font-size: 2em;
+	margin: 0;
+}
+
+small {
+	font-size: 0.4em;
+}
+
+main {
+	display: block;
+	margin: 0 auto;
+}
